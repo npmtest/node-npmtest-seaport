@@ -1,6 +1,6 @@
 # npmtest-seaport
 
-#### basic test coverage for  [seaport (v2.0.9)](https://github.com/substack/seaport)  [![npm package](https://img.shields.io/npm/v/npmtest-seaport.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-seaport) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-seaport.svg)](https://travis-ci.org/npmtest/node-npmtest-seaport)
+#### basic test-coverage for  [seaport (v2.0.9)](https://github.com/substack/seaport)  [![npm package](https://img.shields.io/npm/v/npmtest-seaport.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-seaport) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-seaport.svg)](https://travis-ci.org/npmtest/node-npmtest-seaport)
 
 #### service registry and port assignment for clusters
 
